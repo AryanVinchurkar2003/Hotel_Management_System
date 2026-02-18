@@ -1,6 +1,6 @@
 # Hotel_Management_System
 
-# Hotel Management System — Hotel Luminous
+# Hotel Luminous
 # 📖 Overview
 
 Hotel Luminous is a simple Java-based Hotel Management System designed to simulate hotel operations such as room booking, customer management, and billing.
